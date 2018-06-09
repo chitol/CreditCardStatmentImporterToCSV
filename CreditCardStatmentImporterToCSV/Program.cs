@@ -16,7 +16,7 @@ namespace CreditCardStatmentImporterToCSV
         {
             try
             {
-                Console.Write("Usage: Use filename as argument");
+                Console.Write("Usage: Use filename as arguments");
 
                 string[] lines = File.ReadAllLines(args[0]);
                 string[] newLines = new string[lines.Length];
