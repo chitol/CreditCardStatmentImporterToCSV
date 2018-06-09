@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.IO;
 
 
+
+
 namespace CreditCardStatmentImporterToCSV
 {
     class Program
